@@ -1,2 +1,2 @@
-# shopee_code_league_2020
+# Shopee Code League 2020
 To store all related jupyter notebook
